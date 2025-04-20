@@ -30,6 +30,16 @@ We used twelve classification algorithms in this study: logistic regression, sup
 6.  Evaluation Metrics:
 The performance of these models was estimated using a set of common evaluation metrics, including accuracy and recall. The accuracy was well calculated as the proportion of correctly predicted outcomes of the total number of predictions. Recall is a measure of how many actual positive cases were correctly recognized by the model. It answers the question, "Out of all the actual positive cases, how many did the model correctly identify?"
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+## Results
+
+The results of our study showed that all the classification algorithms used performed moderately well on the diabetes dataset, with mean accuracy scores ranging from 56% to  74%. The gradient boosting algorithm had the highest mean accuracy score (75.5%), followed by the AdaBoost classifier (75%) and the rbf SVM (74.9%). The below table represents the accuracy of all the machine learning algorithms- The gradient boosting algorithm had the highest mean accuracy score of 75.54%.
+
+With regards to stroke prediction, the results indicated that gender has no effect on the risk of stroke. However, the results revealed that certain factors such as smoking, hypertension, and heart disease increase the risk of stroke. The results also showed that people whose type of work is "self-employed" have a higher risk of stroke than other types of work. There was no clear connection between residence type and stroke, but there was a slight tendency towards stroke in a rural residence type.
+
+The results of our study come up with the understanding of the diabetes, stroke and hypertension prediction using machine learning models. The high mean accuracy scores of the gradient boosting algorithm and the AdaBoost classifier indicate that these algorithms may be effective in predicting diabetes. Additionally, the results highlighting the impact of risk factors such as smoking, hypertension, and heart disease on stroke risk are valuable for developing preventive measures. Overall, the results of this study give the important insights of the prediction on the diabetes, stroke, hypertension and highlight the potential for using machine learning algorithms in this field. 
+
 
 
 
